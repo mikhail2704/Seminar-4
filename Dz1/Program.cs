@@ -7,3 +7,4 @@ Console.Write("Введите второе число:");
 double b = Convert.ToInt32(Console.ReadLine());
 double sim = Math.Pow(a,b);
 Console.Write($"{a}^{b}={sim}");
+f
